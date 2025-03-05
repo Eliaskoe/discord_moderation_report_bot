@@ -1,0 +1,141 @@
+2025-03-05 00:08:41,251 - discord_bot - ERROR - No Discord token found in environment variables!
+2025-03-05 00:23:15,044 - discord_bot - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-03-05 00:23:20,647 - discord_bot - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-03-05 00:23:21,763 - discord_bot - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-03-05 00:24:29,579 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:25:31,328 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:25:31,525 - discord_bot - INFO - Synced 1 command(s)
+2025-03-05 00:26:29,664 - discord_bot - ERROR - Error executing command: action is a required argument that is missing.
+2025-03-05 00:27:42,359 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:27:42,638 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:28:20,742 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:28:21,153 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:28:52,598 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:28:52,817 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:29:14,550 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:29:52,910 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:30:59,691 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:30:59,975 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:31:37,479 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:31:37,752 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:32:09,975 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:32:10,180 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:35:31,389 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:35:31,667 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:36:16,351 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:36:16,597 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:36:46,269 - discord_bot - INFO - Custom message sent by elias61010 in allgemeinlol
+2025-03-05 00:44:12,288 - discord_bot - INFO - Deleted message from elias61010 containing blacklisted words
+2025-03-05 00:44:34,898 - discord_bot - INFO - Bot is ready! Logged in as Elias
+2025-03-05 00:44:35,208 - discord_bot - INFO - Synced 3 command(s)
+2025-03-05 00:45:09,948 - discord_bot - INFO - Custom message sent by elias61010 in allgemeinlol
+2025-03-05 00:48:54,395 - discord_bot - INFO - Deleted message from elias61010 containing blacklisted words: fuck
+2025-03-05 00:50:12,792 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 00:56:19,660 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:02:14,796 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:04:00,634 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:04:34,341 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:04:34,637 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:06:44,175 - discord_bot - INFO - Nachricht von elias61010 mit verbotenen Wörtern gelöscht: fuck
+2025-03-05 01:07:09,115 - discord_bot - INFO - Nachricht von elias61010 mit verbotenen Wörtern gelöscht: fuck
+2025-03-05 01:10:55,382 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:10:55,569 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:11:42,803 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:11:43,026 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:12:34,436 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:12:34,625 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:15:07,611 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:15:07,957 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:16:21,685 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:16:21,840 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:19:36,826 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:19:37,163 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:22:05,502 - discord_bot - ERROR - Fehler: 'ReportButtons' object has no attribute 'reported_user'
+2025-03-05 01:22:32,832 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:22:33,169 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:26:55,806 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:26:56,120 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:29:22,011 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:29:22,342 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:31:41,150 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:31:41,374 - discord_bot - INFO - 4 Befehle synchronisiert
+2025-03-05 01:35:43,973 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:35:44,273 - discord_bot - INFO - 5 Befehle synchronisiert
+2025-03-05 01:38:25,929 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:38:26,232 - discord_bot - INFO - 5 Befehle synchronisiert
+2025-03-05 01:44:08,298 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:44:08,489 - discord_bot - INFO - 5 Befehle synchronisiert
+2025-03-05 01:45:51,101 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:45:51,253 - discord_bot - INFO - 5 Befehle synchronisiert
+2025-03-05 01:51:39,194 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:51:39,571 - discord_bot - INFO - 6 Befehle synchronisiert
+2025-03-05 01:52:36,768 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:52:36,969 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 01:52:55,383 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:53:36,965 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 01:55:59,521 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:55:59,730 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 01:56:12,289 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:56:59,713 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 01:59:39,852 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 01:59:40,042 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:01:50,100 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:01:50,386 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:02:22,385 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:02:22,653 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:02:53,400 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:02:53,777 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:05:05,346 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:05:05,499 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:08:45,855 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:08:46,020 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:15:35,650 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:15:35,836 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:17:57,478 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:17:57,621 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:19:48,980 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:19:49,299 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:25:14,768 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:25:15,019 - discord_bot - INFO - 7 Befehle synchronisiert
+2025-03-05 02:27:27,463 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:27:27,707 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:28:20,062 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:28:20,286 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:29:17,739 - discord_bot - INFO - Botinfo angezeigt von elias61010
+2025-03-05 02:32:57,713 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:32:58,003 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:34:16,053 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:34:16,324 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:35:09,345 - discord_bot - INFO - Botinfo angezeigt von elias61010
+2025-03-05 02:35:43,164 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:35:43,386 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:35:54,577 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:36:33,146 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:37:13,468 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:38:25,385 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:38:25,696 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:41:48,970 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:41:49,130 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:42:28,960 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:42:29,182 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:43:04,800 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:43:05,026 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:43:51,374 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:43:51,579 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:44:43,537 - discord_bot - INFO - Sent delete log for message from elias61010
+2025-03-05 02:46:07,552 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:46:07,876 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:47:15,052 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:47:15,232 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:47:26,238 - discord_bot - INFO - Botinfo angezeigt von elias61010
+2025-03-05 02:47:49,141 - discord_bot - INFO - Sent delete log for message from elias61010
+2025-03-05 02:49:01,448 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:49:01,631 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:50:03,985 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:50:04,431 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:51:53,117 - discord_bot - INFO - Sent delete log for message from elias61010
+2025-03-05 02:53:52,983 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:53:53,154 - discord_bot - INFO - 8 Befehle synchronisiert
+2025-03-05 02:54:33,737 - discord_bot - INFO - Sent delete log for message from elias61010
+2025-03-05 02:55:41,757 - discord_bot - INFO - Bot ist bereit! Eingeloggt als Elias
+2025-03-05 02:55:41,920 - discord_bot - INFO - 8 Befehle synchronisiert
